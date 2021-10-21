@@ -1,3 +1,5 @@
+https://github.com/amigoscode/spring-data-jpa-course.git
+
 mport org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 class ContactManagerTest {
